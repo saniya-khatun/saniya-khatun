@@ -1,54 +1,104 @@
 # Hi, I'm Saniya Khatun 👋
 
-**Computer Science Student · IT Support · Technology & Operations**
+**Computer Science Student | IT Support | Python & Android Development**
 
-I'm a Computer Science student at **Bunker Hill Community College** with hands-on experience supporting students, faculty, and staff in higher-education technology environments. I enjoy helping people solve technical problems, learning new tools, and building practical programming projects.
+I'm a Computer Science student at **Bunker Hill Community College** with hands-on experience in IT support and programming. I enjoy helping people solve technical problems, learning new technologies, and creating applications that are useful in everyday life.
 
-## About Me
+## 👩‍💻 About Me
 
 - 🎓 Studying Computer Science at Bunker Hill Community College
-- 💻 Digital Student Liaison with the BHCC AIDE Department
-- 🛠️ Former Student Technology Assistant at Hartwick College's Technology Resource Center
-- 🐍 Built Python projects as part of programming training and independent practice
-- 🤝 Interested in IT support, help desk, customer support, administrative technology, and software development
+- 💻 Working as a Digital Student Liaison in the BHCC AIDE Department
+- 🛠️ Former Student Technology Assistant at Hartwick College
+- 📱 Developed Android applications as part of my college coursework
+- 🐍 Built several Python projects, including games and automation tools
+- 🌱 Interested in IT support, software development, technical support, and technology-related opportunities
 
-## Skills & Tools
+## 🛠️ Skills & Tools
 
-**Programming:** Python, Java, C++, SQL  
-**IT & Productivity:** Microsoft 365, Excel, Teams, SharePoint  
-**Learning Platforms:** Moodle, Canvas, D2L Brightspace  
-**Other:** Technical troubleshooting, user support, digital documentation, data organization
+**Programming Languages:** Python, Java, Kotlin, C++, SQL
 
-## Selected Projects
+**Mobile Development:** Android Studio, Android App Development, Firebase Authentication
 
-A few projects from my learning and programming practice:
+**Python Libraries & Tools:** Tkinter, Turtle Graphics, smtplib
 
-| Project | What it is |
-| --- | --- |
-| [Snake Game](https://github.com/saniya-khatun/snake-game) | A classic game project |
-| [Ping Pong](https://github.com/saniya-khatun/ping-pong) | A simple game project |
-| [Quizzer](https://github.com/saniya-khatun/quizzer) | A quiz application project |
-| [Email](https://github.com/saniya-khatun/email) | An email-related programming project |
-| [Password](https://github.com/saniya-khatun/password) | A password-related programming project |
+**IT & Productivity:** Microsoft 365, Excel, Teams, SharePoint
 
-*I'm continuing to improve project documentation, add screenshots, and refine these repositories.*
+**Learning Platforms:** Moodle, Canvas, D2L Brightspace
 
-## Experience
+**Other Skills:** Technical Troubleshooting, User Support, Digital Documentation, Data Organization, Problem Solving
 
-**Digital Student Liaison — Bunker Hill Community College**  
-Support students and faculty with college technology, software navigation, troubleshooting, and digital resources.
+## 🚀 My Projects
 
-**Student Technology Assistant — Hartwick College**  
-Provided front-line campus technology assistance through the Technology Resource Center, including support with D2L Brightspace and other software.
+Here are some of the projects I've worked on while learning programming and application development.
 
-## Education
+### 📱 Android Development Projects
 
-**Bunker Hill Community College** — Associate of Science, Computer Science (expected December 2026)  
-**Hartwick College** — Completed one semester of Computer Science bachelor's coursework (Spring 2024)
+**[SnapLog – Digital Photo Notebook](https://github.com/saniya-khatun/SnapLog-Android)**
 
-## Connect
+*Technologies: Kotlin, Android Studio, Firebase Authentication*
 
-- GitHub: [@saniya-khatun](https://github.com/saniya-khatun)
+An Android application I created as my final project for my Android Development class. Users can log in with their email and password, take pictures, add descriptions, and save their memories. They can also log back in later to view their saved photos and notes.
+
+**Other Android Studio Projects**
+
+During my Android Development course, I also worked on several smaller applications to practice mobile programming and app design.
+
+- **NoteTakingApp** – A note-taking application project
+- **Calculator** – A basic calculator application
+- **InternetConnectedApp** – An application project involving internet connectivity
+- **ClickingApplication & ClickingApp** – Practice projects for user interactions
+- **My First App** – My introduction to Android application development
+
+These projects helped me practice creating Android interfaces, working with Kotlin, and understanding how mobile applications are developed.
+
+### 🐍 Python Projects
+
+| Project | Description |
+|---|---|
+| [Snake Game](https://github.com/saniya-khatun/snake-game) | A classic Snake game with movement controls, food collection, and scoring |
+| [Ping Pong](https://github.com/saniya-khatun/ping-pong) | A two-player Pong game with keyboard controls and score tracking |
+| [Quizzer](https://github.com/saniya-khatun/quizzer) | A quiz application built while practicing Python |
+| [Random Quote Emailer](https://github.com/saniya-khatun/email) | A Python program that sends randomly selected motivational quotes through email |
+| [Password Generator](https://github.com/saniya-khatun/password) | A Tkinter desktop application that generates passwords and saves entered account details |
+
+## 💼 Experience
+
+**Digital Student Liaison — Bunker Hill Community College**
+
+- Help students, faculty, and staff with technology-related questions and issues.
+- Assist users with college software, online learning tools, and digital resources.
+- Provide technical support and help users navigate different systems.
+
+**Student Technology Assistant — Hartwick College**
+
+- Provided technology assistance through the college's Technology Resource Center.
+- Helped troubleshoot common technical issues.
+- Assisted students and staff with software and D2L Brightspace.
+- Supported campus technology operations.
+
+## 🎓 Education
+
+**Bunker Hill Community College**
+
+Associate of Science in Computer Science
+
+*Expected December 2026*
+
+**Hartwick College**
+
+Completed one semester of Computer Science bachelor's coursework
+
+*Spring 2024*
+
+## 📚 Learning & Growth
+
+I'm continuously working on improving my programming and technical skills. Through my college courses, personal projects, and IT support experience, I've gained practical experience working with different technologies.
+
+I'm excited to continue learning and exploring opportunities in IT support, software development, and other technology-related fields.
+
+## 🤝 Connect With Me
+
+**GitHub:** [github.com/saniya-khatun](https://github.com/saniya-khatun)
 
 ---
 
