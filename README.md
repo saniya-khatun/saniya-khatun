@@ -49,7 +49,6 @@ Provided front-line campus technology assistance through the Technology Resource
 ## Connect
 
 - GitHub: [@saniya-khatun](https://github.com/saniya-khatun)
-- LinkedIn: Add your LinkedIn profile URL here
 
 ---
 
